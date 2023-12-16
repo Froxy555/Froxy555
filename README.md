@@ -8,6 +8,8 @@ Student
 * 🖥️  See my portfolio at [My Website](http://portfolio-tom-hevesi.vercel.app)
 * ✉️  You can contact me at [hevesitamas7@gmail.com](mailto:hevesitamas7@gmail.com)
 * 🧠  I'm learning Typescript and MongoDB
+* 📫 How to reach me **hevesitamas7@gmail.com**
+* 📄 Know about my experiences [https://portfolio-tom-hevesi.vercel.app/resume](https://portfolio-tom-hevesi.vercel.app/resume)
 
 ### Skills
 
